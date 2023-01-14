@@ -1,0 +1,38 @@
+[
+    {
+        "Item": "IPhone 12Pro Max",
+        "priceperunit": "20000",
+        "Quantity": "1",
+        "Discount": "5000"
+    },
+    {
+        "Item": "Huawei Nova SE",
+        "priceperunit": "5000",
+        "Quantity": "1",
+        "Discount": "2000"
+    },
+    {
+        "Item": "Samsung Hero",
+        "priceperunit": "100000",
+        "Quantity": "1",
+        "Discount": "5000"
+    },
+    {
+        "Item": "IPhone XR",
+        "priceperunit": "8500",
+        "Quantity": "1",
+        "Discount": "1500"
+    },
+    {
+        "Item": "Razer Phone 2",
+        "priceperunit": "10000",
+        "Quantity": "2",
+        "Discount": "1700"
+    },
+    {
+        "Item": "Nokia S500",
+        "priceperunit": "1500",
+        "Quantity": "10",
+        "Discount": "300"
+    }
+]
